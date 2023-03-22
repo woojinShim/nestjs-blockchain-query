@@ -11,7 +11,7 @@ export const databaseProviders = [
         host: 'localhost',
         port: 3306,
         username: 'root',
-        password: '5769wls*^',
+        password: 'asdf1234*^',
         database: 'nestjs-db',
         entities: ["dist/**/*.entity.js"],
         synchronize: true,
